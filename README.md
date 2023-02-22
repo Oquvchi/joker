@@ -1,0 +1,2 @@
+# joker
+figma yuklash uchun
